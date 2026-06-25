@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" fill="none">
+  <path d="M50 4 L92 22 L92 58 C92 80 73 100 50 108 C27 100 8 80 8 58 L8 22 Z" fill="#0F1B2E" stroke="#00D4FF" stroke-width="2.5"/>
+  <path d="M50 14 L82 28 L82 58 C82 75 68 92 50 99 C32 92 18 75 18 58 L18 28 Z" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="50" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#00D4FF" text-anchor="middle" letter-spacing="-1">IF</text>
+</svg>

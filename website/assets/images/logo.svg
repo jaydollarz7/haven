@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 46" fill="none" role="img" aria-label="ICE FIXIT shield logo">
+  <defs>
+    <linearGradient id="sg" x1="2.5" y1="1.5" x2="37.5" y2="44.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#1E3ABA"/>
+    </linearGradient>
+    <linearGradient id="sf" x1="2.5" y1="1.5" x2="37.5" y2="44.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#1E3ABA" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <path d="M20 1.5L37.5 9.5V21C37.5 31.5 30 40.5 20 44.5C10 40.5 2.5 31.5 2.5 21V9.5L20 1.5Z" fill="url(#sf)" stroke="url(#sg)" stroke-width="1.5"/>
+  <text x="20" y="30" text-anchor="middle" fill="white" font-family="Outfit,system-ui,sans-serif" font-weight="800" font-size="13.5" letter-spacing="-0.5">IF</text>
+</svg>
